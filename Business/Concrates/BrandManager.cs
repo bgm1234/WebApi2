@@ -22,7 +22,7 @@ namespace Business.Concrates
 
          public CreatedBrandResponse Add(CreateBrandRequest createBrandRequest)
         {
-            // mapping => automapper ggıuhıuh
+            // mapping => automapper
             Brand brand = new Brand();
             brand.Name = createBrandRequest.Name;
             brand.CreatedDate=DateTime.Now;
@@ -40,7 +40,20 @@ namespace Business.Concrates
 
         public List<GetAllBrandResponse> GetAll()
         {
-            throw new NotImplementedException();
+            List<Brand> brands = _brandDal.GetAll();
+
+            List<GetAllBrandResponse> getAllBrandResponses = new List<GetAllBrandResponse>();
+
+            foreach (Brand brand in brands)
+            {
+                GetAllBrandResponse getAllBrandResponse = new GetAllBrandResponse();
+                getAllBrandResponse.Name = brand.Name;
+                getAllBrandResponse.Id=brand.Id;
+                getAllBrandResponse.CreatedDate = brand.CreatedDate;
+
+                getAllBrandResponses.Add(getAllBrandResponse);
+            }
+             return getAllBrandResponses;
         }
     }
 }

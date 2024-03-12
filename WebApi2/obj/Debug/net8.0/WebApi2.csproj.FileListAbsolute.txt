@@ -30,3 +30,12 @@ C:\Users\begum\OneDrive\Masaüstü\Batu\WebApi2\WebApi2\obj\Debug\net8.0\refint\
 C:\Users\begum\OneDrive\Masaüstü\Batu\WebApi2\WebApi2\obj\Debug\net8.0\WebApi2.pdb
 C:\Users\begum\OneDrive\Masaüstü\Batu\WebApi2\WebApi2\obj\Debug\net8.0\WebApi2.genruntimeconfig.cache
 C:\Users\begum\OneDrive\Masaüstü\Batu\WebApi2\WebApi2\obj\Debug\net8.0\ref\WebApi2.dll
+C:\Users\begum\OneDrive\Masaüstü\Batu\WebApi2\WebApi2\obj\Debug\net8.0\WebApi2.sourcelink.json
+C:\Users\begum\OneDrive\Masaüstü\Batu\WebApi2\WebApi2\bin\Debug\net8.0\Business.dll
+C:\Users\begum\OneDrive\Masaüstü\Batu\WebApi2\WebApi2\bin\Debug\net8.0\Core.dll
+C:\Users\begum\OneDrive\Masaüstü\Batu\WebApi2\WebApi2\bin\Debug\net8.0\DataAccess.dll
+C:\Users\begum\OneDrive\Masaüstü\Batu\WebApi2\WebApi2\bin\Debug\net8.0\Entities.dll
+C:\Users\begum\OneDrive\Masaüstü\Batu\WebApi2\WebApi2\bin\Debug\net8.0\Business.pdb
+C:\Users\begum\OneDrive\Masaüstü\Batu\WebApi2\WebApi2\bin\Debug\net8.0\Core.pdb
+C:\Users\begum\OneDrive\Masaüstü\Batu\WebApi2\WebApi2\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\begum\OneDrive\Masaüstü\Batu\WebApi2\WebApi2\bin\Debug\net8.0\Entities.pdb
