@@ -22,7 +22,7 @@ namespace Business.Concrates
 
          public CreatedBrandResponse Add(CreateBrandRequest createBrandRequest)
         {
-            // mapping => automapper
+            // mapping => automapper ggıuhıuh
             Brand brand = new Brand();
             brand.Name = createBrandRequest.Name;
             brand.CreatedDate=DateTime.Now;
